@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Checkpoints & weights (too large for git)
+checkpoints/
+*.pth
+
+# Generated outputs
+output/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Claude Code
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Datasets (downloaded separately)
+VideoMatte240K*/
+BG-20k/
+
+# pre trained weights
+rvm_mobilenetv3_pretrained.pth
