@@ -276,4 +276,4 @@ The demo captures your webcam server-side and streams three MJPEG feeds to the b
 ## References
 
 1. Lin et al., "Robust High-Resolution Video Matting with Temporal Guidance" (2021) — [RVM](https://github.com/PeterL1n/RobustVideoMatting)
-2. Li et al., "VideoMatt: Video Matting with Spatial Attention" (2023) — [VideoMatt](https://github.com/AnyiRao/VideoMatt)
+2. Li et al., "VideoMatt: Video Matting with Spatial Attention" (2023) — [VideoMatt](https://openaccess.thecvf.com/content/CVPR2023W/MobileAI/papers/Li_VideoMatt_A_Simple_Baseline_for_Accessible_Real-Time_Video_Matting_CVPRW_2023_paper.pdf)
