@@ -34,3 +34,5 @@ BG-20k/
 
 # pre trained weights
 rvm_mobilenetv3_pretrained.pth
+
+REPORT.md
