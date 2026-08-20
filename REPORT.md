@@ -1,6 +1,5 @@
 # HybridMatt: Transfer Learning & Training Report
 
-**Project:** Image & Video Processing (IVP) — Semester 6
 **Date:** 31 March 2026
 **Hardware:** NVIDIA GeForce RTX 4060 Laptop GPU (8 GB VRAM)
 
